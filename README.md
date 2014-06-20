@@ -88,8 +88,7 @@ $ make generate-false
 $ make stop
 ```
   
-To clean up any files created while running the testnet and restore to the 
-original state:
+To clean up any files created while running the testnet and restore to the original state:
 
 ```
 $ make clean
